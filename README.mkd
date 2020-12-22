@@ -14,9 +14,9 @@ Usage
 Copy each file to the corresponding directory in your `~/.vim` directory or
 install using [Pathogen](https://github.com/tpope/vim-pathogen).
 
-You can also use a modeline like this in every ledger file:
+You can also use a modeline like this in every ledger file (commented out i.e. with ";"):
 
-    vim:filetype=ledger
+    ; vim:filetype=ledger
 
 Tips and useful commands
 ------------------------
